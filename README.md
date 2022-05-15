@@ -40,7 +40,7 @@ For genectic algorithm, different parent selection methods, crossover and mutati
 - **Neural Network based library :** Keras <br />
 - **Machine Learning based library :** Scikitlearn <br />
 - **Web IDE for python :** Google Colab 
-- **Other libraries :** Numpy,pandas,matplotlib
+- **Other libraries :** Numpy,pandas,matplotlib,pygad
 
 ## References :
 [1] Taherzadeh, Ghazaleh, et al. "Sequence-based prediction of protein–carbohydrate binding sites using support vector machines." Journal of chemical information and modeling 56.10 (2016): 2115-2122.
